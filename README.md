@@ -1,5 +1,3 @@
-# bsnmw-ace
-
 ```mermaid
 gitGraph
     commit id: "Initial"
